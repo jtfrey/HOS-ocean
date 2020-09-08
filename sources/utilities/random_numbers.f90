@@ -26,7 +26,7 @@ MODULE random_numbers
 USE variables_3D, only: n1o2p1,n2
 USE type
 USE iso_fortran_env, only: int64
-!USE IFPORT
+USE IFPORT
 !
 CONTAINS
 !

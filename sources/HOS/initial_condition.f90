@@ -33,7 +33,7 @@ USE Bivar
 USE input_HOS
 USE linear_wave
 USE random_numbers
-!USE IFPORT
+USE IFPORT
 !
 IMPLICIT NONE
 !
